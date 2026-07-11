@@ -7,3 +7,13 @@ A professional Microsoft Excel Job Application Tracker with an interactive dashb
 The Job Application Tracker is designed to help job seekers manage their applications from a single workbook. It provides a structured way to record application details, monitor progress through different recruitment stages, and gain insights through an interactive dashboard.
 
 This project was developed to demonstrate practical Microsoft Excel skills in solving a real-world problem. It showcases workbook design, interactive dashboards, formulas, data validation, structured data management, and user-friendly navigation, making it a valuable portfolio project for Excel, business analysis, and data analytics roles.
+
+## Key Features
+
+- Interactive dashboard for monitoring job application progress.
+- Centralized job application tracker with structured data entry.
+- Dropdown lists for consistent and accurate data input.
+- Automatic calculations and summary metrics.
+- User-friendly Welcome page with project introduction and navigation.
+- Interactive navigation between workbook sections for a seamless user experience.
+- Designed to help job seekers stay organized throughout their job search.
