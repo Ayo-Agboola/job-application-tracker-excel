@@ -28,6 +28,10 @@ This project was developed to demonstrate practical Microsoft Excel skills in so
 
 ![Welcome Page](images/Welcome.png)
 
+### Job Tracker
+
+![Job Tracker](images/Job%20Tracker.png)
+
 ## Workbook Structure
 
 The workbook is organized into dedicated worksheets, each serving a specific purpose.
