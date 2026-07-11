@@ -27,3 +27,16 @@ This project was developed to demonstrate practical Microsoft Excel skills in so
 ### Welcome Page
 
 ![Welcome Page](images/Welcome.png)
+
+## Workbook Structure
+
+The workbook is organized into dedicated worksheets, each serving a specific purpose.
+
+| Worksheet | Purpose |
+|------------|---------|
+| Welcome | Serves as the landing page with project information, key features, user guidance, and navigation to other worksheet. |
+| Dashboard | Presents key metrics and visual insights about the job search. |
+| Job Tracker | Stores and manages all job application records. |
+| Lists | Contains the dropdown values used throughout the workbook for consistent data entry. |
+
+
