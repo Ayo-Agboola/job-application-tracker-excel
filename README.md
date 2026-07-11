@@ -17,3 +17,13 @@ This project was developed to demonstrate practical Microsoft Excel skills in so
 - User-friendly Welcome page with project introduction and navigation.
 - Interactive navigation between workbook sections for a seamless user experience.
 - Designed to help job seekers stay organized throughout their job search.
+
+## Dashboard Preview
+
+### Interactive Dashboard
+
+![Job Dashboard](images/Job%20Dashboard.png)
+
+### Welcome Page
+
+![Welcome Page](images/Welcome.png)
